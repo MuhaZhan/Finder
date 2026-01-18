@@ -2,7 +2,7 @@ const translations = {
   en: {
     subtitle: "Mentor Catalog for FTC 2025 — DECODE",
     heroTitle: "Mentorship & Community",
-    heroDesc: "Red Lotus is a growing community of students, mentors, and engineers united by a passion for robotics, technology, and teamwork. Our mentorship program connects experienced mentors with motivated students, helping teams grow faster, avoid common mistakes, and build both technical and leadership skills. We believe that strong communities are built on knowledge sharing, collaboration, and real support — not competition alone.",
+    heroDesc: "Finder is a growing community of students, mentors, and engineers united by a passion for robotics, technology, and teamwork. Our mentorship program connects experienced mentors with motivated students, helping teams grow faster, avoid common mistakes, and build both technical and leadership skills. We believe that strong communities are built on knowledge sharing, collaboration, and real support — not competition alone.",
     mentorsCatalog: "Mentors Catalog",
     footerQuestion: "Want to become a mentor or looking for one?",
     footerDesc: "Reach out to us through the link below — we're always open to new connections.",
@@ -23,7 +23,7 @@ const translations = {
   ru: {
     subtitle: "Каталог менторов FTC 2025 — DECODE",
     heroTitle: "Менторство и сообщество",
-    heroDesc: "Red Lotus — растущее сообщество студентов, менторов и инженеров, объединённых страстью к робототехнике, технологиям и командной работе. Наша программа менторства связывает опытных менторов с мотивированными студентами, помогая командам развиваться быстрее, избегать общих ошибок и развивать как технические, так и лидерские навыки. Мы верим, что сильные сообщества строятся на обмене знаниях, сотрудничестве и реальной поддержке — не только на конкуренции.",
+    heroDesc: "Finder — растущее сообщество студентов, менторов и инженеров, объединённых страстью к робототехнике, технологиям и командной работе. Наша программа менторства связывает опытных менторов с мотивированными студентами, помогая командам развиваться быстрее, избегать общих ошибок и развивать как технические, так и лидерские навыки. Мы верим, что сильные сообщества строятся на обмене знаниях, сотрудничестве и реальной поддержке — не только на конкуренции.",
     mentorsCatalog: "Каталог менторов",
     footerQuestion: "Хотите стать ментором или ищете одного?",
     footerDesc: "Свяжитесь с нами по ссылке ниже — мы всегда открыты для новых связей.",
@@ -44,7 +44,7 @@ const translations = {
   kz: {
     subtitle: "FTC 2025 — DECODE үшін ментор каталогы",
     heroTitle: "Менторлық және қауымдастық",
-    heroDesc: "Red Lotus — робототехника, технология және командалық жұмысқа құмарлық арқасында ынамдасқан студенттер, менторлар және инженерлердің өсіп келе жатқан қауымдастығы. Біздің менторлық бағдарламасы тәжірибелі менторларды ынамды студенттермен байланыстырады, командалардың тез өсуіне, жалпы қателіктерден аулақтауға және техникалық және көшбасшылық дағдыларын дамытуға көмектеседі. Біз сильный сообщества білім беру, ынамдастық және нақты қолдау арқасында құрылатынына сенеміз.",
+    heroDesc: "Finder — робототехника, технология және командалық жұмысқа құмарлық арқасында ынамдасқан студенттер, менторлар және инженерлердің өсіп келе жатқан қауымдастығы. Біздің менторлық бағдарламасы тәжірибелі менторларды ынамды студенттермен байланыстырады, командалардың тез өсуіне, жалпы қателіктерден аулақтауға және техникалық және көшбасшылық дағдыларын дамытуға көмектеседі. Біз сильный сообщества білім беру, ынамдастық және нақты қолдау арқасында құрылатынына сенеміз.",
     mentorsCatalog: "Менторлар каталогы",
     footerQuestion: "Ментор болғысы келеді немесе бірін іздеп жүрсіз бе?",
     footerDesc: "Төмендегі сілтеме арқылы бизге хабарласыңыз — біз әрқашан жаңа байланыстарға ашықпыз.",
