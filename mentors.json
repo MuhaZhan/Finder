@@ -39,7 +39,31 @@
       "description": "Responsible, hardworking individual with high organizational skills. Quickly establishes rapport with people. Constantly seeks self-improvement and development.",
       "focus": "Team Management / Organization / Communication",
       "photo": "./Mentor5.jpg"
-     }
+     },
+    {
+      "name": "Eldos Seitkassymuly",
+      "role": "Mentor of FTC Team #28862 Red Lotus",
+      "experience": "IQanat High School of Burabay",
+      "description": "An experienced and highly respected mentor who plays a key role in the team’s development. Eldos inspires students to strive for excellence, think critically, and work effectively as a team. Known for his strong leadership, professionalism, and ability to guide students through complex technical and strategic challenges.",
+      "focus": "Leadership, team development, strategy, competition preparation",
+      "photo": "./Mentor6.jpg"
+    },
+    {
+      "name": "Almas Musa",
+      "role": "Engineering & Robotics Advisor",
+      "experience": "Yessenov University",
+      "description": "A dedicated mentor with a strong academic background and passion for robotics education. Almas supports students in building solid engineering foundations and encourages analytical thinking and continuous learning throughout the robotics season.",
+      "focus": "Engineering fundamentals, robotics systems, technical mentoring",
+      "photo": "./Mentor7.jpg"
+    },
+    {
+      "name": "Aidos Sadak",
+      "role": "Technical Mentor",
+      "experience": "IQanat High School of Burabay",
+      "description": "A supportive and detail-oriented mentor focused on structured learning and teamwork. Aidos helps students apply theoretical knowledge to real FTC challenges and develop confidence in technical problem-solving.",
+      "focus": "Robotics fundamentals, teamwork, applied problem-solving",
+      "photo": "./Mentor8.jpg"
+    }
   ],
   "ru": [
     {
@@ -81,6 +105,30 @@
       "description": "Ответственная, трудолюбивая личность с высокими организаторскими способностями. Быстро находит общий язык с людьми. Постоянно стремится к самосовершенствованию и развитию.",
       "focus": "Управление командой / Организация / Коммуникация",
       "photo": "./Mentor5.jpg"
+    },
+    {
+      "name": "Елдос Сейткасымулы",
+      "role": "Ментор команды FTC #28862 Red Lotus",
+      "experience": "Школа IQanat Бурабай",
+      "description": "Опытный и высокоуважаемый ментор, играющий ключевую роль в развитии команды. Елдос вдохновляет студентов стремиться к совершенству, критически мыслить и эффективно работать в команде. Известен своим сильным лидерством, профессионализмом и способностью направлять студентов через сложные технические и стратегические задачи.",
+      "focus": "Лидерство, развитие команды, стратегия, подготовка к соревнованиям",
+      "photo": "./Mentor6.jpg"
+    },
+    {
+      "name": "Алмас Муса",
+      "role": "Инженерный наставник",
+      "experience": "Университет Есенова",
+      "description": "Посвященный ментор с сильным академическим опытом и страстью к образованию в области робототехники. Алмас поддерживает студентов в создании прочной инженерной базы и поощряет аналитическое мышление и непрерывное обучение на протяжении всего сезона робототехники.",
+      "focus": "Основы инженерии, системы робототехники, техническое наставничество",
+      "photo": "./Mentor7.jpg"
+    },
+    {
+      "name": "Айдос Садак",
+      "role": "Технический ментор",
+      "experience": "Школа IQanat Бурабай",
+      "description": "Поддерживающий и внимательный ментор, ориентированный на структурированное обучение и командную работу. Айдос помогает студентам применять теоретические знания к реальным задачам FTC и развивать уверенность в техническом решении проблем.",
+      "focus": "Основы робототехники, командная работа, прикладное решение проблем",
+      "photo": "./Mentor8.jpg"
     }
   ],
   "kz": [
@@ -123,6 +171,30 @@
       "description": "Жауапкершілікті, еңбекқор және ұйымдастырушылық қабілеті жоғары тұлға. Адамдармен тез тіл табыса алады. Үнемі ізденіп, өзін дамытуға ұмтылады.",
       "focus": "Команда менеджменті / Ұйымдастыру / Коммуникация",
       "photo": "./Mentor5.jpg"
+    },
+    {
+      "name": "Елдос Сейтқасымұлы",
+      "role": "FTC командасы #28862 Red Lotus менторы",
+      "experience": "IQanat Бурабай жоғары мектебі",
+      "description": "Команданың дамуына маңызды рөл атқаратын тәжірибелі және жоғары құрметке ие ментор. Елдос студенттерді үздіксіздікке ұмтылуға, сыни тұрғыдан ойлауға және тиімді командалық жұмыс істеуге шабыттандырады. Оның күшті көшбасшылығы, кәсібилігі және студенттерді күрделі техникалық және стратегиялық мәселелер бойынша бағыттау қабілетімен танымал.",
+      "focus": "Көшбасшылық, команда дамуы, стратегия, жарысқа дайындық",
+      "photo": "./Mentor6.jpg"
+    },
+    {
+      "name": "Алмас Муса",
+      "role": "Инженерлік кеңесші",
+      "experience": "Есенов университеті",
+      "description": "Робототехника саласындағы білімге құштарлығы бар мықты академиялық тәжірибесі бар адал ментор. Алмас студенттерге берік инженерлік негіз құруға көмектеседі және робототехника маусымы бойы аналитикалық ойлауды және үздіксіз оқуды ынталандырады.",
+      "focus": "Инженерия негіздері, робототехника жүйелері, техникалық тәлімгерлік",
+      "photo": "./Mentor7.jpg"
+    },
+    {
+      "name": "Айдос Садақ",
+      "role": "Техникалық ментор",
+      "experience": "IQanat Бурабай жоғары мектебі",
+      "description": "Құрылымдық оқытуға және командалық жұмысқа бағытталған қолдаушы және егжей-тегжейлі ментор. Айдос студенттерге теориялық білімді нақты FTC мәселелеріне қолдануға және техникалық мәселелерді шешуде сенімділік дамытуға көмектеседі.",
+      "focus": "Робототехника негіздері, командалық жұмыс, қолданбалы мәселе шешу",
+      "photo": "./Mentor8.jpg"
     }
   ]
 }
