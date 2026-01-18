@@ -1,0 +1,128 @@
+{
+  "en": [
+    {
+      "name": "Ötteleu Aigerim",
+      "role": "Strategy & Leadership Mentor",
+      "experience": "School-Gymnasium #9, Shchuchinsk",
+      "description": "High-level leadership skills and strategic thinking. Develops team coordination and tactical game strategies for FTC competitions.",
+      "focus": "Strategy / Leadership / Game Analysis",
+      "photo": "./Mentor1.jpg"
+    },
+    {
+      "name": "Sarsenbaeva Zhanyl",
+      "role": "Programming & IT Systems Mentor",
+      "experience": "Senior Lecturer, Kokshetau University",
+      "description": "Expert in information systems and computer science. Teaches modern programming approaches and software architecture for robotics teams.",
+      "focus": "Programming / Software Architecture / IT Systems",
+      "photo": "./Mentor2.jpg"
+    },
+    {
+      "name": "Utebayeva Dameli",
+      "role": "Mechanical & Engineering Mentor",
+      "experience": "School-Gymnasium #1 Educator",
+      "description": "Specializes in mechanical design, CAD modeling, and robot construction. Guides teams in building efficient and innovative mechanical systems.",
+      "focus": "Mechanical Design / CAD / Engineering",
+      "photo": "./Mentor3.jpg"
+    },
+    {
+      "name": "Zhakuden Akzhol",
+      "role": "Electronics & Build Mentor",
+      "experience": "Gymnasium-Lyceum #6, Kokshetau",
+      "description": "Expert in electronics, circuit design, and REV Robotics systems. Helps teams optimize electrical systems and hardware integration.",
+      "focus": "Electronics / REV Robotics / Hardware",
+      "photo": "./Mentor4.jpg"
+    },
+    {
+      "name": "Ospanova Akzharkyn Asylbekkyzy",
+      "role": "Team Leadership & Organization Mentor",
+      "experience": "Al-Farabi IT School-Lyceum, Kokshetau",
+      "description": "Responsible, hardworking individual with high organizational skills. Quickly establishes rapport with people. Constantly seeks self-improvement and development.",
+      "focus": "Team Management / Organization / Communication",
+      "photo": "./Mentor5.jpg"
+     }
+  ],
+  "ru": [
+    {
+      "name": "Ӧтетiлеу Әйгерім",
+      "role": "Ментор по стратегии и лидерству",
+      "experience": "Школа-гимназия №9, Щучинск",
+      "description": "Высокие навыки лидерства и хорошее стратегическое мышление. Развивает координацию команды и тактические игровые стратегии для соревнований FTC.",
+      "focus": "Стратегия / Лидерство / Анализ игры",
+      "photo": "./Mentor1.jpg"
+    },
+    {
+      "name": "Сарсенбаева Жаныл",
+      "role": "Ментор по программированию и IT-системам",
+      "experience": "Старший преподаватель, Университет Кокшетау",
+      "description": "Эксперт в области информационных систем и информатики. Преподает современные подходы к программированию и архитектуре программного обеспечения для команд робототехники.",
+      "focus": "Программирование / Архитектура ПО / IT-системы",
+      "photo": "./Mentor2.jpg"
+    },
+    {
+      "name": "Утебаева Дамели",
+      "role": "Ментор по механике и инженерии",
+      "experience": "Педагог школы-гимназии №1",
+      "description": "Специализируется в механическом дизайне, CAD-моделировании и конструировании роботов. Помогает командам в создании эффективных и инновационных механических систем.",
+      "focus": "Механический дизайн / CAD / Инженерия",
+      "photo": "./Mentor3.jpg"
+    },
+    {
+      "name": "Жакуден Акжол",
+      "role": "Ментор по электронике и сборке",
+      "experience": "Гимназия-лицей №6, Кокшетау",
+      "description": "Эксперт в области электроники, проектирования схем и систем REV Robotics. Помогает командам оптимизировать электрические системы и интеграцию оборудования.",
+      "focus": "Электроника / REV Robotics / Оборудование",
+      "photo": "./Mentor4.jpg"
+    },
+    {
+      "name": "Оспанова Акжаркын Асылбеккызы",
+      "role": "Ментор по лидерству и организации команды",
+      "experience": "IT мектеп-лицей имени Аль-Фараби, Кокшетау",
+      "description": "Ответственная, трудолюбивая личность с высокими организаторскими способностями. Быстро находит общий язык с людьми. Постоянно стремится к самосовершенствованию и развитию.",
+      "focus": "Управление командой / Организация / Коммуникация",
+      "photo": "./Mentor5.jpg"
+    }
+  ],
+  "kz": [
+    {
+      "name": "Өтетілеу Әйгерім",
+      "role": "Стратегия және лидерлік ментор",
+      "experience": "9 мектеп-гимназиясы, Щучинск",
+      "description": "Жоғары деңгейдегі лидерлік дағдылары және стратегиялық ойлау. Ұйымдық координация және FTC сайыстарына арналған тактикалық ойындар стратегиясын дамытады.",
+      "focus": "Стратегия / Лидерлік / Ойын талдауы",
+      "photo": "./Mentor1.jpg"
+    },
+    {
+      "name": "Сарсенбаева Жаныл",
+      "role": "Бағдарламалау және IT-жүйелер ментор",
+      "experience": "Қоқшетау университеті, аға оқытушы",
+      "description": "Ақпараттық жүйелер және информатика салаларының сарапшысы. Робот техникасы команда үшін қазіргі заманғы бағдарламалау тәсілдері және бағдарлама архитектурасын оқытады.",
+      "focus": "Бағдарламалау / Бағдарламалық архитектура / IT-жүйелер",
+      "photo": "./Mentor2.jpg"
+    },
+    {
+      "name": "Утебаева Дәмелі",
+      "role": "Механикалық және инженерлік ментор",
+      "experience": "1 мектеп-гимназиясы педагогі",
+      "description": "Механикалық дизайн, CAD модельдеу және робот құрылымы бойынша мамандығы бар. Командаларға тиімді және инновациялық механикалық жүйелер құруға көмектеседі.",
+      "focus": "Механикалық дизайн / CAD / Инженерия",
+      "photo": "./Mentor3.jpg"
+    },
+    {
+      "name": "Жәкуден Ақжол",
+      "role": "Электроника және құрастыру ментор",
+      "experience": "6 мектеп-лицей, Қоқшетау",
+      "description": "Электроника, схема дизайны және REV Robotics жүйелері салаларының сарапшысы. Командаларға электрлік жүйелерді және аппаратты интеграциясын оңтайландыруға көмектеседі.",
+      "focus": "Электроника / REV Robotics / Аппаратура",
+      "photo": "./Mentor4.jpg"
+    },
+    {
+      "name": "Оспанова Акжаркын Асылбекқызы",
+      "role": "Командалық лидерлік және ұйымдастыру менторы",
+      "experience": "Әл-Фараби атындағы IT мектеп-лицейі, Көкшетау",
+      "description": "Жауапкершілікті, еңбекқор және ұйымдастырушылық қабілеті жоғары тұлға. Адамдармен тез тіл табыса алады. Үнемі ізденіп, өзін дамытуға ұмтылады.",
+      "focus": "Команда менеджменті / Ұйымдастыру / Коммуникация",
+      "photo": "./Mentor5.jpg"
+    }
+  ]
+}

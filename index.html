@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Finder | FTC Mentors</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- Dynamic Background -->
+<div class="time-glow" id="timeGlow"></div>
+
+<!-- Language Switcher -->
+<div class="lang-switcher">
+  <button data-lang="en" class="lang-btn active">EN</button>
+  <button data-lang="ru" class="lang-btn">РУ</button>
+  <button data-lang="kz" class="lang-btn">ҚЗ</button>
+</div>
+
+<!-- Logo Section -->
+<div class="logo-section">
+  <div class="logo-container">
+    <img src="logo.png" alt="Red Lotus Logo" class="logo-glow">
+  </div>
+  <h1 class="main-title">MENTOR FINDER</h1>
+  <p class="main-subtitle" data-i18n="subtitle">Mentor Catalog for FTC 2025 — DECODE</p>
+</div>
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h2 data-i18n="heroTitle">Mentorship & Community</h2>
+    <p data-i18n="heroDesc">Finder is a growing community of students, mentors, and engineers united by a passion for robotics, technology, and teamwork. Our mentorship program connects experienced mentors with motivated students, helping teams grow faster, avoid common mistakes, and build both technical and leadership skills. We believe that strong communities are built on knowledge sharing, collaboration, and real support — not competition alone.</p>
+  </div>
+</section>
+
+<main>
+  <h2 class="mentors-title" data-i18n="mentorsCatalog">Mentors Catalog</h2>
+  <section class="mentors-grid" id="mentors"></section>
+</main>
+
+<!-- Application Modal -->
+<div id="appModal" class="modal" style="display: none;">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <h2 data-i18n="applyTitle">Become a Mentor</h2>
+    <form id="appForm">
+      <input type="text" id="name" placeholder="Name" required>
+      <input type="email" id="email" placeholder="Email" required>
+      <select id="role" required>
+        <option value="">Select Role</option>
+        <option value="Programming">Programming</option>
+        <option value="Mechanical">Mechanical</option>
+        <option value="Strategy">Strategy</option>
+        <option value="Electronics">Electronics</option>
+        <option value="Leadership">Leadership</option>
+      </select>
+      <input type="text" id="experience" placeholder="Experience" required>
+      <textarea id="description" placeholder="About you" required></textarea>
+      <button type="submit" data-i18n="submit">Submit</button>
+    </form>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-content">
+    <p data-i18n="footerQuestion">Want to become a mentor or looking for one?</p>
+    <p data-i18n="footerDesc">Reach out to us through the link below — we're always open to new connections.</p>
+    <p class="footer-note" data-i18n="footerNote">All mentorship requests are reviewed by the Red Lotus team.</p>
+    <a href="https://t.me/RED_LOTUS_CONTACT" target="_blank" class="footer-link">
+      📲 <span data-i18n="contact">Contact Us</span>
+    </a>
+  </div>
+  <p class="copyright">&copy; 2026 Red Lotus FTC. All rights reserved.</p>
+</footer>
+
+<script src="i18n.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
